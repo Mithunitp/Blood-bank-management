@@ -1,8 +1,8 @@
 # Blood-bank-management
 
-Hello working on a blood bank management project using Data Structures in C++.
+Blood bank management project using Data Structures in C++.
 
-I'm looking to add 
+Functionalities of the application include:
 
 ## [1] Blood availability 
       Input: Blood Type/Group
@@ -29,6 +29,4 @@ I'm looking to add
       Output: Pick up date or Time
 
 
-Create issue and request to assign the task you want to add.
-Save the file as module[n].cpp
-n being 1,2,3,4,5,6.
+
